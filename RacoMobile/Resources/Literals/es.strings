@@ -1,0 +1,188 @@
+/* 
+  es.strings
+  iRaco
+
+  Created by Marcel Arbó on 3/15/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+
+//Commom
+"_enterLogin"               = "Necesita iniciar sesión";
+"_checkConnection"          = "Compruebe su conexión";
+"_ok"                       = "OK";
+"_cancel"                   = "Cancelar";
+"_needToLogin"              = "Para acceder al Racó és necesario haber iniciado una sesión";
+"_back"                     = "Atrás";
+"_yes"                      = "Si";
+"_no"                       = "No";
+"_detected_crash"           = "Error detectado";
+"_notify_developers"        = "¿Desea enviar un correo a los desarrolladores con el problema detectado?";
+"_day"                      = "Día";
+
+//Settings Bundle
+"usernameKeyBundle"         = "Usuario";
+"passwordKeyBundle"         = "Contraseña";
+
+//No-Results-View
+"_noResultsText"            = "Sin resultados";
+
+//AppDelegate
+"_updatingData"             = "Actualizando datos...";
+"_cheking"                  = "Comprobando...";
+"_portada"                  = "Portada";
+"_raco"                     = "Racó";
+"_fib"                      = "FIB";
+"_settings"                 = "Ajustes";
+"_internetError_title"      = "Error de conexión";
+"_internetError_message"    = "Activa la conexión del dispositivo o utilitza la red sin cables.";
+"_loadingPersistentData"    = "Cargando datos...";
+"_errorTitle"               = "Información";
+"_errorMessage"             = "Fallo al actualizar algunos datos";
+
+//InitialViewController
+"_InitialNavTitle"          = "Portada";
+"_mails"                    = "Correo reciente";
+"_news"                     = "Notícias recientes";
+"_notices"                  = "Avisos recientes";
+
+    //InitialSettingsViewController
+    "_initialSettingsNavTitle"  = "Priorizar";
+
+//FibViewController
+"_FibNavTitle"              = "FIB";
+"_goToNews"                 = "Noticias";
+"_goToOccupation"           = "Ocupación de los aularios";
+"_goToFIB"                  = "Donde está la FIB?";
+"_goToFIBSubjects"          = "Todas las asignaturas";
+"_goToBiblioteca"           = "Acceso a la Biblioteca";
+
+    //NewsViewController
+    "_NewsNavTitle"             = "Noticias";
+    "_noNews"                   = "No hay ninguna noticia";
+
+        //NoticiaTextViewController
+        "_goToWeb"                  = "Ir al enlace Web";
+
+            //NoticiaWebViewController
+            "_loadingWebView"           = "Cargando enlace Web";
+
+    //OcuppationViewController
+    "_OccupationNavTitle"       = "Ocupación";
+    "_occupationA5"             = "Aulario A5";
+    "_occupationB5"             = "Aulario B5";
+    "_occupationC6"             = "Aulario C6";
+
+        //OcuppationDetailViewController
+        "_segmentControlImage"      = "Imagen";
+        "_segmentControlPlaces"     = "Sitios libres";
+        "_lastUpdate"               = "Última actualización";
+        "_subject"                  = "Asignatura";
+        "_freeClass"                = "Aula libre";
+
+    //MapsFibViewController
+    "_MapFibNavTitle"           = "Mapa de la FIB";
+    "_IamHere"                  = "Estoy aquí";
+
+    //FibSubjectsTypeViewController
+    "_FibSubjectsTypeNavTitle"  = "Asignaturas";
+    "_grauEnginyInfor"          = "Grado en Ingeniería Informática";
+
+        //FibSubjectsViewController
+
+            //FibSubjectDetailViewController
+            "_SubjectDetailCredits"            = "Créditos";
+            "_SubjectDetailObjectius"       = "Objetivos";
+            "_SubjectDetailBibliografia"    = "Bibliografía básica";
+            "_SubjectDetailBibliografiaComplementaria"    = "Bibliografía complementária";
+            "_SubjectDetailProfessors"      = "Profesores";
+            "_email"                        = "correo:";
+
+//RacoViewController
+"_RacoNavTitle"             = "Racó";
+"_goToMySubjects"           = "Mis Asignaturas";
+"_goToAgenda"               = "Mi Agenda";
+"_goToSchedule"             = "Mi Horario";
+"_goToMail"                 = "Mi Correo";
+
+    //AgendaViewController
+    "_AgendaNavTitle"           = "Agenda";
+    "_synchronizeAgenda"        = "Sincroniza la Agenda con el dispositivo";
+    "_today"                    = "Ahora";
+    "_allDay"                   = "Todo el día";
+    "_agendaTableHeader"        = "Eventos futuros";
+    "_agendaTableFooter"        = "Eventos pasados";
+
+    //ScheduleViewController
+    "_synchronizeSchedule"      = "Sincroniza el Horario con el dispositivo";
+    "_monday"                   = "Lunes";
+    "_tuesday"                  = "Martes";
+    "_wednesday"                = "Miércoles";
+    "_thursday"                 = "Jueves";
+    "_friday"                   = "Viernes";
+    "_saturday"                 = "Sábado";
+    "_sunday"                   = "Domingo";
+
+    //MailsViewController
+    "_MailsNavTitle"            = "Correo";
+    "_synchronizeMail"          = "Sincroniza el correo con el dispositivo";
+    "_fromMail"                 = "De:";
+    "_noMails"                  = "No tienes ningun correo";
+
+    //RacoSubjectsViewController
+    "_RacoSubjectsNavTitle"     = "Mis asignaturas";
+
+        //AvisosViewController
+        "_AvisosNavTitle"           = "Avisos";
+        "_noAvisos"                 = "No hay ningún aviso";
+
+            //AvisosDetailViewController
+            "_AvisosDetailNavTitle"     = "Aviso";
+            "_avisDescriptionLabel"     = "Descripción";
+            "_withoutDescription"       = "<p>Sin descripción</p>";
+
+//SettingsViewController
+"_SettingsNavTitle"         = "Ajustes";
+"_goToLogin"                = "Usuario";
+"_logout"                   = "Finalizar sesión";
+"_goToLanguage"             = "Idioma";
+"_goToWifi"                 = "Perfil Wifi";
+"_settingLoginHeader"       = "Cambio de usuario";
+"_settingsWifiHeader"       = "Obtener mi Perfil Wifi";
+
+    //LanguageViewController
+    "_LanguageNavTitle"         = "Idioma";
+
+    //LoginViewController
+    "_LoginNavTitle"            = "Iniciar sesión";
+    "_closeLoginView"           = "Atrás";
+    "usernameKey"               = "Usuario";
+    "passwordKey"               = "Contraseña";
+    "_userAndPassCorrect"       = "Usuario y contraseña validos";
+    "_userAndPassIncorrect"     = "Usuario y contraseña no validos";
+
+    //WifiProfileViewController
+    "_WifiNavTitle"             = "Perfil Wifi";
+    "_getWifiProfile"           = "Obtener el Perfil Wifi";
+    "_usernameNeeded"           = "Por favor introduzca un usuario";
+    "_wifiTextView"             = "El Perfil Wifi es el perfil de configuración de la red sin cables Eduroam de la UPC. Si obtienes tu perfil, no tendrás la necesidad de identificarte siempre para conectarte en esta red.";
+
+//SettingsAboutViewController
+"_settingsAboutNavTitle"    = "Información";
+"_rateButtonLabel"          = "Valora el RacóMobile en la App Store";
+"_contactLabel"             = "Dudas, sugerencias?";
+"_contactButtonLabel"       = "Contacta con nosotros por correo";
+"_versionLabel"             = "RacóMobile, Versión %@";
+"_mailMessageSubject"       = "[Racó Mobile]Contacto";
+"_emailTitle"               = "Correo";
+"_email_canceled"           = "Correo cancelado";
+"_email_saved"              = "Correo guardado";
+"_email_sent"               = "Correo enviado";
+"_email_failed"             = "Correo fallado";
+"_email_not_sent"           = "Correo no enviado";
+"_sentFromRacoMobile"       = "Enviado desde la aplicación iOS Racó Mobile.";
+"_appAuthor"                = "Autor:";
+"_appDirector"              = "Director:";
+"_appCoDirector"            = "Co-director:";
+"_appDesign"                = "Diseño gráfico:";
+"_rightsReserved"           = "Todos los derechos reservados.";
+

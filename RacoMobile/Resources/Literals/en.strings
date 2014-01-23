@@ -1,0 +1,190 @@
+/* 
+  en.strings
+  iRaco
+
+  Created by Marcel Arbó on 3/15/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+
+//Commom
+"_enterLogin"               = "Need to login";
+"_checkConnection"          = "Check your connection";
+"_ok"                       = "OK";
+"_cancel"                   = "Cancel";
+"_needToLogin"              = "To enter Racó you need to be logged";
+"_back"                     = "Back";
+"_yes"                      = "Yes";
+"_no"                       = "No";
+"_detected_crash"           = "Crash detected";
+"_notify_developers"        = "Do you want to sent an email to notify developers?";
+"_day"                      = "Day";
+
+//Settings Bundle
+"usernameKeyBundle"         = "Username";
+"passwordKeyBundle"         = "Password";
+
+//No-Results-View
+"_noResultsText"            = "No results";
+
+//AppDelegate
+"_updatingData"             = "Updating data...";
+"_cheking"                  = "Checking...";
+"_portada"                  = "Headlines";
+"_raco"                     = "Racó";
+"_fib"                      = "FIB";
+"_settings"                 = "Settings";
+"_internetError_title"      = "Connection Error";
+"_internetError_message"    = "Turn on cellular network or use Wi-Fi to reload data.";
+"_loadingPersistentData"    = "Loading data...";
+"_errorTitle"               = "Information";
+"_errorMessage"             = "Failure to update some data";
+
+//InitialViewController
+"_InitialNavTitle"          = "Headlines";
+"_mails"                    = "Recent emails";
+"_news"                     = "Recent news";
+"_notices"                  = "Recent notices";
+
+    //InitialSettingsViewController
+    "_initialSettingsNavTitle"  = "Priorizer";
+
+//FibViewController
+"_FibNavTitle"              = "FIB";
+"_goToNews"                 = "News";
+"_goToOccupation"           = "Classrooms occupation";
+"_goToFIB"                  = "Where is the FIB?";
+"_goToFIBSubjects"          = "All FIB Subjects";
+"_goToBiblioteca"           = "Library Access";
+
+    //NewsViewController
+    "_NewsNavTitle"             = "News";
+    "_noNews"                   = "There are no news";
+
+        //NoticiaTextViewController
+        "_goToWeb"                  = "Go to Website";
+
+            //NoticiaWebViewController
+            "_loadingWebView"           = "Loading Web site...";
+
+    //OcuppationViewController
+    "_OccupationNavTitle"       = "Occupation";
+    "_occupationA5"             = "A5 Classroom";
+    "_occupationB5"             = "B5 Classroom";
+    "_occupationC6"             = "C6 Classroom";
+
+        //OcuppationDetailViewController
+        "_segmentControlImage"      = "Image";
+        "_segmentControlPlaces"     = "Free places";
+        "_lastUpdate"               = "Last update";
+        "_subject"                  = "Subject";
+        "_freeClass"                = "Free class";
+
+    //MapsFibViewController
+    "_MapFibNavTitle"           = "FIB's Map";
+    "_IamHere"                  = "I am here";
+
+    //FibSubjectsTypeViewController
+    "_FibSubjectsTypeNavTitle"  = "Subjects";
+    "_grauEnginyInfor"          = "Bachelor Degree in Computing Engineering";
+
+        //FibSubjectsViewController
+
+            //FibSubjectDetailViewController
+            "_SubjectDetailCredits"         = "Credits";
+            "_SubjectDetailObjectius"       = "Objectives";
+            "_SubjectDetailBibliografia"    = "Basics bibliography";
+            "_SubjectDetailBibliografiaComplementaria"    = "Complementary bibliography";
+            "_SubjectDetailProfessors"      = "Teachers";
+            "_email"                        = "email:";
+
+//RacoViewController
+"_RacoNavTitle"             = "Racó";
+"_goToMySubjects"           = "My Subjects";
+"_goToAgenda"               = "My Agenda";
+"_goToSchedule"             = "My Schedule";
+"_goToMail"                 = "My Mail";
+
+    //AgendaViewController
+    "_AgendaNavTitle"           = "Agenda";
+    "_synchronizeAgenda"        = "Synchronize Agenda with device";
+    "_today"                    = "Now";
+    "_allDay"                   = "All day";
+    "_agendaTableHeader"        = "Future events";
+    "_agendaTableFooter"        = "Past events";
+
+    //ScheduleViewController
+    "_synchronizeSchedule"      = "Synchronize Schedule with device";
+    "_monday"                   = "Monday";
+    "_tuesday"                  = "Tuesday";
+    "_wednesday"                = "Wednesday";
+    "_thursday"                 = "Thursday";
+    "_friday"                   = "Friday";
+    "_saturday"                 = "Saturday";
+    "_sunday"                   = "Sunday";
+
+    //MailsViewController
+    "_MailsNavTitle"            = "Mail";
+    "_synchronizeMail"          = "Synchronize Mail with device";
+    "_fromMail"                 = "From:";
+    "_noMails"                  = "You have no email";
+
+    //RacoSubjectsViewController
+    "_RacoSubjectsNavTitle"     = "My Subjects";
+
+        //AvisosViewController
+        "_AvisosNavTitle"           = "Notices";
+        "_noAvisos"                 = "There are no notices";
+
+            //AvisosDetailViewController
+            "_AvisosDetailNavTitle"     = "Notice";
+            "_avisDescriptionLabel"     = "Description";
+            "_withoutDescription"       = "<p>Without description</p>";
+
+//SettingsViewController
+"_SettingsNavTitle"         = "Settings";
+"_goToLogin"                = "Login";
+"_logout"                   = "Logout";
+"_goToLanguage"             = "Language";
+"_goToWifi"                 = "Wifi Profile";
+"_settingLoginHeader"       = "Change your Login";
+"_settingsWifiHeader"       = "Get your Wifi Profile";
+
+
+    //LanguageViewController
+    "_LanguageNavTitle"         = "Language";
+
+    //LoginViewController
+    "_LoginNavTitle"            = "Login";
+    "_closeLoginView"           = "Close";
+    "usernameKey"               = "Username";
+    "passwordKey"               = "Password";
+    "_userAndPassCorrect"       = "Valid user and password";
+    "_userAndPassIncorrect"     = "Invalid user and password";
+
+    //WifiProfileViewController
+    "_WifiNavTitle"             = "Wifi Profile";
+    "_getWifiProfile"           = "Get Wifi Profile";
+    "_usernameNeeded"           = "Please enter a username";
+    "_wifiTextView"             = "The Wifi Profile is the Eduroam Wifi configuration profile from UPC, if you get your profile you will be always automatically loged to this Wifi network with your username and password.";
+
+//SettingsAboutViewController
+"_settingsAboutNavTitle"    = "About";
+"_rateButtonLabel"          = "Rate the RacóMobile on App Store";
+"_contactLabel"             = "Questions, suggestions?";
+"_contactButtonLabel"       = "Contact us by email";
+"_versionLabel"             = "RacóMobile, Version %@";
+"_mailMessageSubject"       = "[Racó Mobile]Contact";
+"_mailTitle"                = "Email";
+"_emailTitle"               = "Email";
+"_email_canceled"           = "Email canceled";
+"_email_saved"              = "Email saved";
+"_email_sent"               = "Email sent";
+"_email_failed"             = "Email failed";
+"_email_not_sent"           = "Email not sent";
+"_sentFromRacoMobile"       = "Sent from iOS Racó Mobile.";
+"_appAuthor"                = "Author:";
+"_appDirector"              = "Director:";
+"_appCoDirector"            = "Co-director:";
+"_appDesign"                = "Graphic design:";
+"_rightsReserved"           = "All rights reserved.";
+
