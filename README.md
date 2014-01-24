@@ -3,7 +3,7 @@ Racó Mobile iOS
 
 Aplicació per a accedir als recursos de la Facultat d'Informàtica de Barcelona des dels dispositius iOS.
 
-Aquesta aplicació és va desenvolupar com un projecte final de carrera pel [Marcel Arbó Lack](http://es.linkedin.com/in/marcelarbo) a inLabFIB. La memòria està disponible al portal [Treballs acadèmics UPC](http://hdl.handle.net/2099.1/13957) (UPCCommons) de la biblioteca de la UPC.
+Aquesta aplicació és va desenvolupar com un projecte final de carrera pel [Marcel Arbó Lack](http://es.linkedin.com/in/marcelarbo) en col·laboració amb l'inLAB FIB. La memòria està disponible al portal [Treballs acadèmics UPC](http://hdl.handle.net/2099.1/13957) (UPCCommons) de la biblioteca de la UPC.
 
 L'aplicació està disponible al [App Store](http://itunes.apple.com/es/app/raco-mobile/id476875617?mt=8) d'Apple.
 
