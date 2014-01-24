@@ -5,6 +5,8 @@ Aplicació per a accedir als recursos de la Facultat d'Informàtica de Barcelona
 
 Aquesta aplicació és va desenvolupar com un projecte final de carrera pel [Marcel Arbó Lack](http://es.linkedin.com/in/marcelarbo) en col·laboració amb l'inLab FIB. La memòria està disponible al portal [Treballs acadèmics UPC](http://hdl.handle.net/2099.1/13957) (UPCCommons) de la biblioteca de la UPC.
 
+El projecte utilitza la versió 1 de l'API del Racó de la FIB que actualment està desaconsellada ja que hi ha disponible la versió 2 de l'API.
+
 L'aplicació està disponible al [App Store](http://itunes.apple.com/es/app/raco-mobile/id476875617?mt=8) d'Apple.
 
 Contribucions
