@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FIB</name>
+	<description>Edificis que formen la FIB dintre del Campus Nord de la UPC</description>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff16a0</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>abff78cb</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dd18802</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_503-wht-blank_maps">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_503-wht-blank_maps</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_503-wht-blank_maps</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a81427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_grn-blank">
+		<IconStyle>
+			<color>ff5befa6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>fffffc8c</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8ca896f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a81427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_503-wht-blank_maps">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_grn-blank0">
+		<IconStyle>
+			<color>ff5befa6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff16a0</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>abff78cb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a81427a5</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb73a67</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4db73a67</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_503-wht-blank_maps">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="poly-A52714-1200-168-highlight">
+		<LineStyle>
+			<color>ffffacad</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8ffe1eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff2f8b55</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d2f8b55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FFD600-1200-77-highlight">
+		<LineStyle>
+			<color>ff00d6ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00d6ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="poly-A52714-1200-168">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-A52714-1200-168-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-A52714-1200-168-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="poly-A52714-1200-168-highlight0">
+		<LineStyle>
+			<color>ff089ffe</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8afffd8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_grn-blank">
+		<IconStyle>
+			<color>ff628aff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffd18802</color>
+			<width>1.8</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dd18802</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff2f8b55</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d2f8b55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank0">
+		<IconStyle>
+			<color>ff5befa6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="poly-A52714-1200-168-normal">
+		<LineStyle>
+			<color>ffffacad</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8ffe1eb</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="poly-FFD600-1200-77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-FFD600-1200-77-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-FFD600-1200-77-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank1">
+		<IconStyle>
+			<color>ff5befa6</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff1427a5</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a81427a5</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>fffffc8c</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8ca896f</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-A52714-1200-168-normal0">
+		<LineStyle>
+			<color>ff089ffe</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>a8afffd8</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-FFD600-1200-77-normal">
+		<LineStyle>
+			<color>ff00d6ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d00d6ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="poly-A52714-1200-1680">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-A52714-1200-168-normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-A52714-1200-168-highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-blank1">
+		<IconStyle>
+			<color>ff628aff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffb73a67</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4db73a67</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Aularis</name>
+		<Placemark>
+			<name>Aulari A6</name>
+			<description>Aules docents</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.113638087061662,41.38939482248331,0 2.113299222919196,41.38915106381238,0 2.113462363951459,41.38902656760953,0 2.113803264931644,41.38926848124471,0 2.113638087061662,41.38939482248331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aulari A5</name>
+			<description><![CDATA[- Aules docents<br>- Laboratoris d'informàtica<br>- Espais de treball en grup]]></description>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.113263331874959,41.38912010095179,0 2.112922821460754,41.38887540286455,0 2.113087127620832,41.38874976390411,0 2.113426241578606,41.38899572856101,0 2.113263331874959,41.38912010095179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aulari A4</name>
+			<description>Aules docents</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112886839278461,41.38884562573436,0 2.11254599556153,41.38860086322495,0 2.112708716205989,41.38847622264987,0 2.113045234687669,41.38872121015085,0 2.112886839278461,41.38884562573436,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Aulari A1</name>
+			<description>Laboratori de Física (soterrani)</description>
+			<styleUrl>#poly-FFD600-1200-77</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.11175537282561,41.3880186944536,0 2.111419802134855,41.3877762356689,0 2.111578426711469,41.3876541248619,0 2.111914777618475,41.38789632034082,0 2.11175537282561,41.3880186944536,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A4</name>
+			<description>Aules docents</description>
+			<LookAt>
+				<longitude>2.113246314957804</longitude>
+				<latitude>41.38877594760891</latitude>
+				<altitude>0</altitude>
+				<heading>0.004920446698280252</heading>
+				<tilt>30.00074884059693</tilt>
+				<range>166.6871422495797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.11278475011224,41.38864458902911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A5</name>
+			<description><![CDATA[- Aules docents<br>- Laboratoris d'informàtica<br>- Espais de treball en grup]]></description>
+			<LookAt>
+				<longitude>2.113246314957804</longitude>
+				<latitude>41.38877594760891</latitude>
+				<altitude>0</altitude>
+				<heading>0.004920446698280252</heading>
+				<tilt>30.00074884059693</tilt>
+				<range>166.6871422495797</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.113154261465435,41.38893055555555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A6</name>
+			<description>Aules docents</description>
+			<LookAt>
+				<longitude>2.113485841462475</longitude>
+				<latitude>41.38906101285285</latitude>
+				<altitude>0</altitude>
+				<heading>0.005078812991585068</heading>
+				<tilt>30.00074884059688</tilt>
+				<range>166.6871422473458</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.113540880675742,41.38920134674482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Edifici Vèrtex</name>
+			<description>A l&apos;edifici Vèrtex del Campus Nord hi ha un seguit d&apos;aules on es realitza tant la formació per al PAS de la UPC com altres cursos i congressos que necessiten d&apos;espais per a sessions paral·leles.</description>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.113050516395101,41.39025601075126,0 2.113488440788669,41.3902727546019,0 2.11422408413281,41.39031510271828,0 2.114373763899411,41.39032079435007,0 2.114510362031716,41.3905282628713,0 2.113906658728808,41.39096926770061,0 2.113032474190011,41.39034962130582,0 2.113011226161214,41.39030383538645,0 2.113050516395101,41.39025601075126,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Vèrtex</name>
+			<LookAt>
+				<longitude>2.113886740529398</longitude>
+				<latitude>41.39075050188323</latitude>
+				<altitude>0</altitude>
+				<heading>0.005343916833312448</heading>
+				<tilt>30.0014749448988</tilt>
+				<range>328.3773867493378</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.113901920832892,41.39069293333551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rectorat UPC</name>
+			<LookAt>
+				<longitude>2.114992980358819</longitude>
+				<latitude>41.38907689121155</latitude>
+				<altitude>0</altitude>
+				<heading>0.006075326117033524</heading>
+				<tilt>30.00147494489878</tilt>
+				<range>328.3773867450448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.115670674550683,41.38927422643476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barcelona Supercomputing Center (BSC)</name>
+			<LookAt>
+				<longitude>2.114992980358819</longitude>
+				<latitude>41.38907689121155</latitude>
+				<altitude>0</altitude>
+				<heading>0.006075326117033524</heading>
+				<tilt>30.00147494489878</tilt>
+				<range>328.3773867450448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.116037317549284,41.38950239889427,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Altres edificis</name>
+		<open>1</open>
+		<Placemark>
+			<name>B6</name>
+			<description><![CDATA[- Gestió i govern de la FIB<br>- Sales de presentacions<br>- inLab FIB<br>- FIBAlumni]]></description>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<coordinates>2.113365561846228,41.38934338106516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B6</name>
+			<description><![CDATA[- Gestió i govern de la FIB<br>- Sales de presentacions<br>- inLab FIB<br>- FIBAlumni]]></description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.113210767840374,41.38947611987739,0 2.113381347043597,41.3893462177048,0 2.113542223402771,41.38946674564626,0 2.113377659606521,41.38959123997268,0 2.113210767840374,41.38947611987739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Omega / K2M</name>
+			<description><![CDATA[- Departament de Matemàtiques (MAT)<br>- Departament de Ciències de la Computació (CS)<br>- Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial (ESAII)<br>- Departament d'Enginyeria de Serveis i Sistemes d'Informació (ESSI)<br>- Associacions d'estudiants de la FIB]]></description>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.114156780163312,41.38898858069352,0 2.113929077404963,41.38887720634556,0 2.113456400187437,41.38835798077148,0 2.11365657850312,41.38826653651524,0 2.114115982476203,41.38869656041708,0 2.114343220003878,41.38882950091148,0 2.114156780163312,41.38898858069352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C5</name>
+			<description><![CDATA[- Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial (ESAII)<br>- Laboratoris docent ESAII<br>- Departament d'Estadística i Investigació Operativa (EIO)<br>- Departament d'Organització d'Empreses (OE)<br>- Aules docents]]></description>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112759443590322,41.38951063278232,0 2.11242195174655,41.38926149641443,0 2.11257771350732,41.38914394123212,0 2.112916953173258,41.38938281519716,0 2.112759443590322,41.38951063278232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C6</name>
+			<description><![CDATA[- Laboratoris d'informàtica<br>- Espais de treball en grup<br>- Laboratoris docents d'AC<br>- Aules docents]]></description>
+			<styleUrl>#poly-A52714-1200-168</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112799073018541,41.38954109424827,0 2.112953326481344,41.38941899524958,0 2.113290996334982,41.38966945676044,0 2.113140826098476,41.38978492861332,0 2.112799073018541,41.38954109424827,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B5</name>
+			<description><![CDATA[- Laboratoris d'informàtica<br>- Departament de Física  (FIS)]]></description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112860180706511,41.38920870167843,0 2.112670843912368,41.38906761477447,0 2.112824687234829,41.38895464879972,0 2.113018337141719,41.38909016293621,0 2.112860180706511,41.38920870167843,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>D6</name>
+			<description><![CDATA[- Departament d'AC<br>- Laboratoris docents d'AC]]></description>
+			<styleUrl>#poly-A52714-1200-1680</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112883903780696,41.3899816455666,0 2.112545894908384,41.38973287982598,0 2.112695609681623,41.38961133272793,0 2.113046328293715,41.38985547089089,0 2.112883903780696,41.3899816455666,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B4</name>
+			<description>- Aules docents</description>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							2.112443587864148,41.38890455244769,0 2.112585162489031,41.38878481912803,0 2.112782793317993,41.38892196906966,0 2.112633914167745,41.38904088768492,0 2.112443587864148,41.38890455244769,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B5</name>
+			<description><![CDATA[- Laboratoris d'informàtica<br>- Departament de Física  (FIS)]]></description>
+			<LookAt>
+				<longitude>2.11317498356689</longitude>
+				<latitude>41.38910247824411</latitude>
+				<altitude>0</altitude>
+				<heading>0.004574429085281607</heading>
+				<tilt>24.3110957756795</tilt>
+				<range>197.834026245037</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.112965256353094,41.38904525631293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B4</name>
+			<description>- Aules docents</description>
+			<LookAt>
+				<longitude>2.112964601857477</longitude>
+				<latitude>41.38909624900793</latitude>
+				<altitude>0</altitude>
+				<heading>0.004435332266911307</heading>
+				<tilt>24.31109577567954</tilt>
+				<range>197.8340262483833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_503-wht-blank_maps</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.112668085479645,41.38885308734457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ω / K2M</name>
+			<description><![CDATA[- Departament de Matemàtiques (MAT)<br>- Departament de Ciències de la Computació (CS)<br>- Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial (ESAII)<br>- Departament d'Enginyeria de Serveis i Sistemes d'Informació (ESSI)<br>- Associacions d'estudiants de la FIB]]></description>
+			<LookAt>
+				<longitude>2.113686301920448</longitude>
+				<latitude>41.38853197687048</latitude>
+				<altitude>0</altitude>
+				<heading>0.004979180067113142</heading>
+				<tilt>26.03544548368937</tilt>
+				<range>224.8306202314043</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.113686301920448,41.38853197687047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Biblioteca Rector Gabriel Ferrater (BRGF)</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.112194408396988,41.3877417735515,0 2.112452014345201,41.3875488003799,0 2.11280925221125,41.38793923515006,0 2.112602621028925,41.38804112700645,0 2.112194408396988,41.3877417735515,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Biblioteca Rector Gabriel Ferrater (BRGF)</name>
+			<LookAt>
+				<longitude>2.112559378162797</longitude>
+				<latitude>41.38802977513932</latitude>
+				<altitude>0</altitude>
+				<heading>0.004234111432661848</heading>
+				<tilt>26.03544548368935</tilt>
+				<range>224.8306202299184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.112637447408505,41.38798956906059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A1</name>
+			<description>Laboratori de Física (soterrani)</description>
+			<LookAt>
+				<longitude>2.112548105547756</longitude>
+				<latitude>41.38803529152696</latitude>
+				<altitude>0</altitude>
+				<heading>0.004226659440309366</heading>
+				<tilt>26.03544548368935</tilt>
+				<range>224.8306202289681</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.111622288386901,41.38784314826913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C5</name>
+			<description><![CDATA[- Departament d'Enginyeria de Sistemes, Automàtica i Informàtica Industrial (ESAII)<br>- Laboratoris docent ESAII<br>- Departament d'Estadística i Investigació Operativa (EIO)<br>- Departament d'Organització d'Empreses (OE)<br>- Aules docents]]></description>
+			<LookAt>
+				<longitude>2.113226971624569</longitude>
+				<latitude>41.38917546196019</latitude>
+				<altitude>0</altitude>
+				<heading>0.004675499281891518</heading>
+				<tilt>26.03544548368935</tilt>
+				<range>224.8306202289862</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.112692243471992,41.38930741981974,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>C6</name>
+			<description><![CDATA[- Laboratoris d'informàtica<br>- Espais de treball en grup<br>- Laboratoris docents d'AC<br>- Aules docents]]></description>
+			<LookAt>
+				<longitude>2.113189748921969</longitude>
+				<latitude>41.389427789107</latitude>
+				<altitude>0</altitude>
+				<heading>0.004650891331966178</heading>
+				<tilt>26.03544548368934</tilt>
+				<range>224.8306202330685</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.113035144289912,41.38958068826697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>D6</name>
+			<description><![CDATA[- Departament d'AC<br>- Laboratoris docents d'AC]]></description>
+			<LookAt>
+				<longitude>2.113189748921969</longitude>
+				<latitude>41.389427789107</latitude>
+				<altitude>0</altitude>
+				<heading>0.004650891331966178</heading>
+				<tilt>26.03544548368934</tilt>
+				<range>224.8306202330685</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>2.112811388053852,41.38977560111549,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

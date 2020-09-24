@@ -1,0 +1,183 @@
+
+/* Class = "UINavigationItem"; title = "Licences"; ObjectID = "0Qf-RA-P1W"; */
+"0Qf-RA-P1W.title" = "Licencias";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "2by-gn-kY9"; */
+"2by-gn-kY9.text" = "Página principal";
+
+/* Class = "UILabel"; text = "In use"; ObjectID = "3AU-Bd-FcR"; */
+"3AU-Bd-FcR.text" = "En uso";
+
+/* Class = "UINavigationItem"; title = "Subjects"; ObjectID = "3KI-Dm-kUq"; */
+"3KI-Dm-kUq.title" = "Assignaturas";
+
+/* Class = "UILabel"; text = "Send feedback"; ObjectID = "4ph-r5-CGS"; */
+"4ph-r5-CGS.text" = "Enviar comentarios";
+
+/* Class = "UILabel"; text = "Developer"; ObjectID = "4xJ-f1-sXb"; */
+"4xJ-f1-sXb.text" = "Desarollador";
+
+/* Class = "UINavigationItem"; title = "El Racó"; ObjectID = "5le-xA-yL0"; */
+"5le-xA-yL0.title" = "El Racó";
+
+/* Class = "UINavigationItem"; title = "Enllaços d'interès"; ObjectID = "7xH-ET-FsQ"; */
+"7xH-ET-FsQ.title" = "Enlaces de interes";
+
+/* Class = "UILabel"; text = "Links"; ObjectID = "Abd-nj-0MD"; */
+"Abd-nj-0MD.text" = "Enlaces";
+
+/* Class = "UILabel"; text = "Equips"; ObjectID = "CcB-m2-GNw"; */
+"CcB-m2-GNw.text" = "Equipos";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "DdX-GI-myi"; */
+"DdX-GI-myi.normalTitle" = "Iniciar sessión";
+
+/* Class = "UILabel"; text = "LEGEND"; ObjectID = "Dr1-8z-LwF"; */
+"Dr1-8z-LwF.text" = "LEYENDA";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "Dtm-8t-Slp"; */
+"Dtm-8t-Slp.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "Dtm-8t-Slp"; */
+"Dtm-8t-Slp.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "Fvj-Lv-hmB"; */
+"Fvj-Lv-hmB.text" = "Data";
+
+/* Class = "UILabel"; text = "Licences"; ObjectID = "GSH-bm-CKX"; */
+"GSH-bm-CKX.text" = "Licencias";
+
+/* Class = "UINavigationItem"; title = "Notes"; ObjectID = "HUR-JM-7A8"; */
+"HUR-JM-7A8.title" = "Avisos";
+
+/* Class = "UINavigationItem"; title = "BRGF's rooms"; ObjectID = "LAn-Yy-VLR"; */
+"LAn-Yy-VLR.title" = "Salas de BRGF";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "N3a-5D-Ndy"; */
+"N3a-5D-Ndy.text" = "Label";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "N9e-ab-Tzx"; */
+"N9e-ab-Tzx.text" = "Noticias";
+
+/* Class = "UINavigationItem"; title = "FIB's map"; ObjectID = "NBf-du-RHz"; */
+"NBf-du-RHz.title" = "Mapa de la FIB";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "NaO-87-HQT"; */
+"NaO-87-HQT.text" = "Disponible";
+
+/* Class = "UILabel"; text = "Privacy policy"; ObjectID = "QBo-Uv-tS2"; */
+"QBo-Uv-tS2.text" = "Política de privacidad";
+
+/* Class = "UILabel"; text = "Credits"; ObjectID = "QLd-2b-li4"; */
+"QLd-2b-li4.text" = "Créditos";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "R5L-N3-gza"; */
+"R5L-N3-gza.text" = "TITLE";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "RHo-SC-L6g"; */
+"RHo-SC-L6g.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = "About"; ObjectID = "RHo-SC-L6g"; */
+"RHo-SC-L6g.headerTitle" = "Sobre";
+
+/* Class = "UILabel"; text = "Available classroom"; ObjectID = "T3N-r5-m35"; */
+"T3N-r5-m35.text" = "Available classroom";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "TJx-XU-HNd"; */
+"TJx-XU-HNd.title" = "Horario";
+
+/* Class = "UISegmentedControl"; VEi-iB-zNO.segmentTitles[0] = "A5"; ObjectID = "VEi-iB-zNO"; */
+"VEi-iB-zNO.segmentTitles[0]" = "A5";
+
+/* Class = "UISegmentedControl"; VEi-iB-zNO.segmentTitles[1] = "C6"; ObjectID = "VEi-iB-zNO"; */
+"VEi-iB-zNO.segmentTitles[1]" = "C6";
+
+/* Class = "UISegmentedControl"; VEi-iB-zNO.segmentTitles[2] = "B5"; ObjectID = "VEi-iB-zNO"; */
+"VEi-iB-zNO.segmentTitles[2]" = "B5";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VRs-fe-CRh"; */
+"VRs-fe-CRh.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "Help"; ObjectID = "Xt6-29-5Je"; */
+"Xt6-29-5Je.headerTitle" = "Ayuda";
+
+/* Class = "UITabBarItem"; title = "Notes"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Avisos";
+
+/* Class = "UITabBarItem"; title = "Subjects"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Asignaturas";
+
+/* Class = "UITabBarItem"; title = "LABs"; ObjectID = "d1A-D8-9ln"; */
+"d1A-D8-9ln.title" = "LABs";
+
+/* Class = "UILabel"; text = "Inicials"; ObjectID = "eG9-BI-vRx"; */
+"eG9-BI-vRx.text" = "Inicials";
+
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "eNH-Im-OAD"; */
+"eNH-Im-OAD.text" = "Cerrar sesión";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "fTl-gI-UeA"; */
+"fTl-gI-UeA.title" = "Ajustes";
+
+/* Class = "UITabBarItem"; title = "News"; ObjectID = "foc-IO-hgB"; */
+"foc-IO-hgB.title" = "Noticias";
+
+/* Class = "UINavigationItem"; title = "Classroom occupation"; ObjectID = "gw4-32-3uX"; */
+"gw4-32-3uX.title" = "Ocupación de las aulas";
+
+/* Class = "UILabel"; text = "Nom Assignatura"; ObjectID = "hPh-jS-guu"; */
+"hPh-jS-guu.text" = "Nom Assignatura";
+
+/* Class = "UILabel"; text = "FIB Map"; ObjectID = "i4m-sL-F82"; */
+"i4m-sL-F82.text" = "Mapa de la FIB";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "jt9-bl-5aT"; */
+"jt9-bl-5aT.text" = "Username";
+
+/* Class = "UITableViewSection"; footerTitle = " "; ObjectID = "k7G-1p-6gB"; */
+"k7G-1p-6gB.footerTitle" = " ";
+
+/* Class = "UITableViewSection"; headerTitle = "Settings"; ObjectID = "k7G-1p-6gB"; */
+"k7G-1p-6gB.headerTitle" = "Ajustes";
+
+/* Class = "UILabel"; text = "Assignatura"; ObjectID = "lZx-cA-Obh"; */
+"lZx-cA-Obh.text" = "Assignaturas";
+
+/* Class = "UILabel"; text = "Aules"; ObjectID = "liW-SD-QpE"; */
+"liW-SD-QpE.text" = "Aulas";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "n8D-Ul-8Cf"; */
+"n8D-Ul-8Cf.text" = "Name";
+
+/* Class = "UILabel"; text = "Classrooom in use for class or maintenance"; ObjectID = "pBY-7e-K5A"; */
+"pBY-7e-K5A.text" = "Classrooom in use for class or maintenance";
+
+/* Class = "UILabel"; text = "Alvaro Ariño Cabau"; ObjectID = "pfa-cg-T4S"; */
+"pfa-cg-T4S.text" = "Alvaro Ariño Cabau";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "q3W-u2-i4D"; */
+"q3W-u2-i4D.title" = "Ajustes";
+
+/* Class = "UILabel"; text = "BRGF's rooms"; ObjectID = "qXg-pn-gCS"; */
+"qXg-pn-gCS.text" = "Salas de BRGF";
+
+/* Class = "UILabel"; text = "version (build)"; ObjectID = "s1x-ma-Hmh"; */
+"s1x-ma-Hmh.text" = "versión (build)";
+
+/* Class = "UILabel"; text = "Grup: "; ObjectID = "shZ-cv-1e3"; */
+"shZ-cv-1e3.text" = "Grupo: ";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "tIN-9c-xfL"; */
+"tIN-9c-xfL.text" = "TITLE";
+
+/* Class = "UILabel"; text = "elRacoMobile"; ObjectID = "txs-9Z-rfL"; */
+"txs-9Z-rfL.text" = "elRacoMobile";
+
+/* Class = "UILabel"; text = "Subjects"; ObjectID = "vmH-7s-A7S"; */
+"vmH-7s-A7S.text" = "Assignaturas";
+
+/* Class = "UINavigationItem"; title = "News"; ObjectID = "xOp-G8-fvH"; */
+"xOp-G8-fvH.title" = "Noticias";
+
+/* Class = "UITabBarItem"; title = "Schedule"; ObjectID = "ycQ-1t-9Ei"; */
+"ycQ-1t-9Ei.title" = "Horario";

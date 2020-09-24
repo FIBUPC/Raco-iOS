@@ -1,0 +1,21 @@
+/* 
+  Strings.strings
+  RacoMobile
+
+  Created by Alvaro Ariño Cabau on 02/03/2020.
+  Copyright © 2020 Alvaro Ariño Cabau. All rights reserved.
+*/
+
+"HORARI_TIME_TITLE" = "TIME";
+"SELECTED_LANGUAGE" = "en";
+"GRUP_TEXT" = "Group";
+"CREDITOS_TEXT" = "Credits";
+
+"LUNES_TEXT" = "MONDAY";
+"MARTES_TEXT" = "TUESDAY";
+"MIERCOLES_TEXT" = "WEDNSDAY";
+"JUEVES_TEXT" = "THURSDAY";
+"VIERNES_TEXT" = "FRIDAY";
+
+"NEW_AVISO_TITLE" = "New notes available";
+"NEW_AVISO_TEXT" = "New notes have arrives, please check them up!";
