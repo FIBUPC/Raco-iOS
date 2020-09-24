@@ -10,6 +10,8 @@ L'alumne [Alvaro Ariño Cabau](http://es.linkedin.com/in/alvaroarino) l'ha redis
 
 La nova app fa ús de l'última versió de l'API del Racó.
 
+Actualment es troba disponible a l'[App Store](https://apps.apple.com/us/app/elracomobile/id1500949835)
+
 Caracterísitiques
 ----------------
 - Consulta d'horari
